@@ -1,0 +1,220 @@
+#cnm1{
+	background-color: #fff;
+	float: left;
+	position: absolute;
+	top: 1150px;
+	left: -610px;
+	width: 390px;
+}
+.aiguang20{
+	background-color:#5e5d9a;
+	border:solid 1px #999;
+	width:346px;
+	height:26px;
+	padding: 16px 21px 16px 22px;
+}
+.aiguang20 h3{
+	 float: left;
+    font-size: 22px;
+    color: #fff;
+    height: 26px;
+   font-family: fzzhengheis-el-gbregular;
+    margin-right:50px;
+}
+.aiguang20 div{
+	color: white;
+	float: left;
+	margin: 5px;
+	border:solid 1px #9598cd;
+	padding: 5px;
+	background-color: #7c80af;
+	font-size: 13px;
+	position: relative;
+	top: -5px;
+}
+#cnm2{
+	background-color: #fff;
+	float: left;
+	position: absolute;
+	top: 1150px;
+	left:-205px;
+	width: 390px;
+}
+.aiguang21{
+	background-color:#4f7799;
+	border:solid 1px #999;
+	width:346px;
+	height:26px;
+	padding: 16px 21px 16px 22px;
+}
+.aiguang21 h3{
+	 float: left;
+    font-size: 22px;
+    color: #fff;
+    height: 26px;
+   font-family: fzzhengheis-el-gbregular;
+    margin-right:50px;
+}
+.aiguang21 div{
+	color: white;
+	float: left;
+	margin: 5px;
+	border:solid 1px #82a5bc;
+	padding: 5px;
+	background-color: #6c90ab;
+	font-size: 13px;
+	position: relative;
+	top: -5px;
+}
+#cnm3{
+	background-color: #fff;
+	float: left;
+	position: absolute;
+	top: 1150px;
+	left:200px;
+	width: 390px;
+}
+.aiguang22{
+	background-color:#516b50;
+	border:solid 1px #999;
+	width:346px;
+	height:26px;
+	padding: 16px 21px 16px 22px;
+}
+.aiguang22 h3{
+	 float: left;
+    font-size: 22px;
+    color: #fff;
+    height: 26px;
+   font-family: fzzhengheis-el-gbregular;
+    margin-right:50px;
+}
+.aiguang22 div{
+	color: white;
+	float: left;
+	margin: 5px;
+	border:solid 1px #78977a;
+	padding: 5px;
+	background-color: #70856f;
+	font-size: 13px;
+	position: relative;
+	top: -5px;
+}
+.aisheng40{
+	width: 370px
+	padding:10px;
+}
+.aisheng41{
+	float: left;
+	width: 100px;
+}
+.aisheng41 img{
+	position: relative;
+	left: 60px;
+	top: -20px;
+}
+.goute{
+	position: absolute;
+	top: 1750px;
+	left: -610px;
+	background-image: url(../image/dian.png);
+	width: 1190px;
+	text-align: center;
+	background-repeat: repeat-x;
+}
+.goute h3{
+	 text-align: center;
+    background-color: #f6f6f6;
+    font-weight: 400;
+    font-family: fzzhengheis-el-gbregular;
+    font-size: 26px;
+    color: #333;    
+    width: 100px;
+    height: 30px;
+    margin: 0px auto;
+    position: relative;
+    top: -7px;
+}
+.toulan{
+	position: absolute;
+	top: 1800px;
+	left: -610px;
+}
+.zhongxin{
+	position: absolute;
+	top: 1980px;
+	left: -950px;
+}
+.haimei{
+	position: absolute;
+	top: 2130px;
+	left: -610px;
+	background-image: url(../image/dian.png);
+	width: 1190px;
+	text-align: center;
+	background-repeat: repeat-x;
+}
+.haimei h3{
+	 text-align: center;
+    background-color: #f6f6f6;
+    font-weight: 400;
+    font-family: fzzhengheis-el-gbregular;
+    font-size: 26px;
+    color: #333;    
+    width: 150px;
+    height: 30px;
+    margin: 0px auto;
+    position: relative;
+    top: -7px;
+}
+.wapper3{
+	position: absolute;
+	top: 2200px;
+	width: 1200px;
+}
+.wapper3 li img{
+	width: 220px;
+	height: 220px;
+}
+.wapper3 li{
+	float: left;
+	width: 220px;
+	height: 305px;
+	padding: 4px;
+	border:#fff 1px solid;
+	background-color: #fff;
+	margin: 5px;
+}
+.wapper3 li:hover{
+	border-color: #f10214;
+}
+.wapper3 li p{
+	 overflow: hidden;
+    margin-bottom: 5px;
+    height: 36px;
+}
+.wapper3 li i{
+	 margin-right: 3px;
+    font-family: arial;
+    font-weight: 400;
+    font-size: 12px;
+    color: #f10214;
+    font-style: normal;
+    font-size: 12px;
+}
+.wapper3 li span{
+	font-size: 16px;
+	color: #f10214;
+}
+.zuihoude{
+	width: 1900px;
+	background-color: #eaeaea;
+	height: 500px;
+	position: absolute;
+	left: -365px;
+	text-align: center;
+	top: 5500px;
+}
+a{
+	text-decoration: none;
+}

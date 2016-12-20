@@ -1,0 +1,246 @@
+body{
+	-webkit-font-smoothing: antialiased;
+	font: 12px/1.5 Microsoft YaHei,tahoma,arial,Hiragino Sans GB,\\5b8b\4f53,sans-serif;
+	color: #666;
+	background-color: #f6f6f6;
+	width: 1900px;
+}
+.a{
+	width: 1920px;
+    color: #999;
+    background-color: #e3e4e5;
+    font-size: 12px;
+    position: absolute;
+}
+#a1{
+	height: 30px;
+    line-height: 30px;
+    color: #999;
+    width: 1190px;
+    margin: 0px auto;
+}
+#a1 ul{
+	list-style: none;
+}
+#erji{
+	border-top: solid 1px #e3e4e5;
+}
+#a1 ul li{
+	float: left;
+}
+.bianhong{
+	color: red;
+}
+#a1 ul li a{
+	text-decoration: none;
+	color: #999;
+}
+#a1 ul li a:hover{
+	color: #c81623;
+}
+.a1{
+	width: 41.563px;
+	height: 30px;
+	padding: 0px 7px;
+	border-width:1px;
+	margin: 0px 250px 0px 195px;
+	font-family: verdana\,simsun;
+	border-bottom: 0px #999 solid;
+}
+#a2{
+	width: 127.109px;
+	height: 31px;
+	margin-right: 8px;
+}
+#a2 span{
+	color:#f10215;
+}
+
+.a3{
+	overflow: hidden;
+    margin: 11px 5px 0;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+}
+.a2{
+	 margin-right: 8px;
+    z-index: 20;
+    margin: 0px 7px;
+    font-family: verdana\,simsun;
+
+}
+#erji #a3{
+	 margin-right: 8px;
+    z-index: 20;
+    margin: 0px 7px;
+    font-family: verdana\,simsun;
+} 
+#a3:hover{
+	background-color: white;
+}
+.erji1 li{
+	width:320px;
+}
+.erji1{
+	width: 322px;
+	height: 220px;
+	display: none;
+	position:absolute;
+	left:559px;
+	background-color:white;
+	border: 1px solid #e3e4e5;
+	border-top: 0px;
+	z-index: 999;
+}
+.erji1 a{
+	color: #999;
+	margin-left: 20px;
+
+}
+.a1:hover .erji1{
+	display: block;
+}
+.a1:hover{
+	background-color: white;
+}
+
+.erji2{
+	width: 283px;
+	position: absolute;
+	left: 1098px;
+	display: none;
+	background-color: white;
+	border: 1px solid #e3e4e5;
+	border-top: 0px;
+	z-index: 999;
+}
+.xiala1:hover .erji2{
+	display: block;
+}
+.erji3{
+	width:170px;
+	position: absolute;
+	left:1233px;
+	display: none;
+	background-color: white;
+	border: 1px solid #e3e4e5;
+	border-top: 0px;
+	z-index: 999;
+}
+.xiala2:hover .erji3{
+	display: block;
+}
+.erji4{
+	display: none;
+	position: absolute;
+	width: 1092px;
+	left:403px;
+	background-color: white;
+	border: 1px solid #e3e4e5;
+	border-top: 0px;
+	z-index: 999;
+}
+.xiala3:hover .erji4{
+	display: block;
+}
+.erji4 div{
+	margin:10px 20px 10px 20px;
+}
+.wapper{
+	width: 1190px;
+	margin: 0px auto;
+	position: absolute;
+	left: 365px;
+	top: 32px;
+}
+.logo{
+	position: absolute;
+	top:-33px;
+}
+.wapper input{
+	width: 490px;
+	height: 25px;
+	padding: 4px;
+	border: solid 1px red;
+	margin:25px auto auto 320px;
+}
+.fang{
+	position: relative;
+	top: 13px;
+	width: 50px;
+	height: 35px;
+}
+.b2{
+	margin-left: 320px;
+	margin-top:7px;
+}
+.b2 a{
+	text-decoration: none;
+	margin-right:10px;
+	color: #999;
+}
+.b3 a{
+	color: #555;
+}
+.b3 a:hover{
+	color: #f10215;
+}
+.b2 span{
+	color:#f10215;
+	margin-right:5px;
+}
+.che3{
+	width:186px;
+	height: 36px;
+	position: relative;
+	top: 13px;
+	left: 75px;
+	border: 1px solid #e3e4e5;
+}
+.b3 ul{
+	list-style: none;
+}
+.b3 ul li{
+	float: left;
+	line-height: 40px;
+	margin-left:30px; 
+}
+.b3_1{
+	width: 264px;
+	height: 40px;
+	float: left;
+	font-size: 16px;
+	margin-left:150px;
+	font-weight: 700;
+	color: #555;
+}
+.b3_2{
+	width:400px;
+	height: 40px;
+	float: left;
+	font-size: 16px;
+	margin-left:-10px;
+	font-weight: 700;
+	color: #555;
+}
+.b3_3{
+	width: 150px;
+	height: 40px;
+	float: left;
+	font-size: 16px;
+	font-weight: 700;
+	color: #555;
+	margin-left: -60px;
+}
+.a3b{
+    margin: 13px 0px ;
+    width: 1px;
+    height: 13px;
+    background-color: #ccc;
+}
+.b3{
+	position: absolute;
+	left:45px;
+	top:100px;
+}
